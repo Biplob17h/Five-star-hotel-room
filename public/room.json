@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Single Room",
+        "bed":1,
+        "img":"https://www.shutterstock.com/image-photo/interior-hotel-room-260nw-264444794.jpg",
+        "price":"200$",
+        "parson":1
+    },
+    {
+        "id":2,
+        "name":"Couple Room",
+        "bed":1,
+        "img":"https://media.architecturaldigest.com/photos/5eac5fa22105f13b72dede45/4:3/w_1420,h_1065,c_limit/111LexowAve_Aug18-1074.jpg",
+        "price":"300$",
+        "parson":2
+    },
+    {
+        "id":3,
+        "name":"Family Room",
+        "bed":3,
+        "img":"https://www.independent.ie/life/travel/bb560/40861168.ece/AUTOCROP/w620/Mill%20Park%20Donegal.jpeg",
+        "price":"400$",
+        "parson":4
+    }
+    
+]

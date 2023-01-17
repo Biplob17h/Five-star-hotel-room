@@ -1,0 +1,79 @@
+.from-contorl {
+    margin-bottom: 20px;
+}
+.from-container{
+    text-align: start;
+    margin-left: 500px;
+}
+
+.from-contorl label {
+    color: rgba(42, 65, 79, 1);
+    font-size: 17px;
+    line-height: 20px;
+    Line-height: 100%;
+    letter-spacing: 0.15%;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.from-title{
+    margin-left: 100px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.from-contorl input {
+    border: 1px solid rgba(149, 160, 167, 1);
+    Width: 415px;
+    Height: 55px;
+    border-radius: 5px;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+.login-btn-submit {
+    background-color: rgba(255, 153, 0, 0.4);
+    Width: 435px;
+    Height: 55px;
+    border-radius: 5px;
+    border: none;
+    Font-size: 21px;
+    Line-height: 25px;
+    Line-height: 100%;
+    letter-spacing: 0.15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+
+}
+.google-btn{
+    background-color: white;
+    Width: 435px;
+    Height: 45px;
+    border-radius: 5px;
+    border: none;
+    Font-size: 21px;
+    Line-height: 25px;
+    Line-height: 100%;
+    letter-spacing: 0.15%;
+    text-align: center;
+    margin-top: 20px;
+}
+.google-btn:hover{
+    background-color: rgba(255, 153, 0, 0.9) ;
+}
+
+.login-btn-submit:hover {
+    background-color: rgba(255, 153, 0, 0.9);
+}
+
+.form-new-account a{
+    color: rgba(42, 65, 79, 1);
+    Font-size: 15px;
+    Line-height: 18px;
+    text-decoration: none;
+}
+.error{
+    color: red;
+}

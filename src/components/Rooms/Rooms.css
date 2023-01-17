@@ -1,0 +1,8 @@
+.rooms{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 170px;
+    margin-right: 170px;
+    gap: 35px;
+    color: white ;
+}
